@@ -1,0 +1,6 @@
+https://d1.awsstatic.com/tmt/detect-analyze-faces-rekognition/detect-analyze-faces-rekognition-sample1.14b4e29a5f7a246639b1694612931acf9a45e752.jpg
+
+https://d1.awsstatic.com/tmt/detect-analyze-faces-rekognition/detect-analyze-faces-rekognition-sample2.cc4e9e93d30d13eea75da8faed36ac66f6fce129.jpg
+
+https://d1.awsstatic.com/tmt/detect-analyze-faces-rekognition/detect-analyze-faces-rekognition-sample3.5b5c31997920aba8eff612d6f2a8829eefdb20ea.jpg
+
