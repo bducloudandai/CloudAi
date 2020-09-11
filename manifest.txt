@@ -1,0 +1,10 @@
+{"source-ref": "your bucket_path/1.jpg"}
+{"source-ref": "your bucket_path/2.jpg"}
+{"source-ref": "your bucket_path/3.jpg"}
+{"source-ref": "your bucket_path/4.jpg"}
+{"source-ref": "your bucket_path/5.jpg"}
+{"source-ref": "your bucket_path/6.jpg"}
+{"source-ref": "your bucket_path/7.jpg"}
+{"source-ref": "your bucket_path/8.jpg"}
+{"source-ref": "your bucket_path/9.jpg"}
+{"source-ref": "your bucket_path/10.jpg"}
